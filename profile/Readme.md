@@ -1,4 +1,4 @@
-![Banner](.github/banner.png)
+![Banner](./banner.png)
 
 # JustMark
 
